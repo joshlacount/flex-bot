@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flex Telegram", "Flex Telegram\Flex Telegram.csproj", "{F844ADCA-34AA-4474-B166-A7354946DA08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto Request", "Auto Request\Auto Request.csproj", "{2085534A-2C61-48E5-896A-3646592E658D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notifier", "Notifier\Notifier.csproj", "{C00E7487-5F6A-4285-9EE7-D918E10B779D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoConvert", "CryptoConvert\CryptoConvert.csproj", "{82579427-F11B-4700-B60F-3A15A2AB3165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F844ADCA-34AA-4474-B166-A7354946DA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F844ADCA-34AA-4474-B166-A7354946DA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F844ADCA-34AA-4474-B166-A7354946DA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F844ADCA-34AA-4474-B166-A7354946DA08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2085534A-2C61-48E5-896A-3646592E658D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2085534A-2C61-48E5-896A-3646592E658D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2085534A-2C61-48E5-896A-3646592E658D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2085534A-2C61-48E5-896A-3646592E658D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00E7487-5F6A-4285-9EE7-D918E10B779D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00E7487-5F6A-4285-9EE7-D918E10B779D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00E7487-5F6A-4285-9EE7-D918E10B779D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00E7487-5F6A-4285-9EE7-D918E10B779D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82579427-F11B-4700-B60F-3A15A2AB3165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82579427-F11B-4700-B60F-3A15A2AB3165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82579427-F11B-4700-B60F-3A15A2AB3165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82579427-F11B-4700-B60F-3A15A2AB3165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B423C6E-6DC1-4D12-AC53-744D804ADD24}
+	EndGlobalSection
+EndGlobal

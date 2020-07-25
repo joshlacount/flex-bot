@@ -1,0 +1,11 @@
+﻿help - List all available commands‏
+
+setnext - Sign up for the next day's session (overrides auto)
+
+getnext - Get the current next flex session
+
+gettoday - Get today's flex session
+
+prefs - Edit default session and schedule
+
+settings - Edit user settings
